@@ -68,7 +68,7 @@
         
         <a href="https://www.box.com/home" class="header-logo" aria-label="Visit the Box homepage" rel="noopener noreferrer">
             
-                <img src="https://baylor.account.box.com/index.php?rm=pic_storage_auth&amp;pic=euks!pac3kv01!3L6AVQoR-oz73wRcnwZ3NicL3Ps_0N0Nb7NwAO6kgEAZ03xXeELE3kGWcExKUV74fi7P01PpVhNw16v9l-v4KmAJQx4Uh0RTtMwoM48q9CBoI14uQbOtkaYArcIG_f76GfSfAh7aQcyLTn4ZFztj_AnR_Kelvzchb4gkWZJ_SlDw8LfNPznnQrBnfgAI3xs_1cjmWDKZvOtr3vh6-EAEJVw3EZ4kGuU60j6JUuo8q3ClSgSVF-mkdr8gykL3YJTa2_EoTXfbw87bnIL8niKNkiRBcYoGxaZWycstujgr7RzZE_f_6gfUhagNw_I1u8G6I0gPtjuodltkKMtoVzVwZA.." class="logo">
+                <img src="https://baylor.account.box.com/index.php?rm=pic_storage_auth&amp;pic=euks!pac3kv01!afn1TjJicTcYMgYt-H1KcV1Gt9xbLPRvIbR3gQAZuA9c1wDbmVvWGe1Jr8cSk6mCd2GfJHj4IlQcqmSWRVTyZySPJSPCt0-8Ejz2Ty8n8UkjTpc5x3jDX7eTNUd-c-yAIFO_t0EhZd43amNRONhVh6t_ja9R_Umysmh-jEq0BUjItV4zIMynZaQk1tgmg7RtiayE4YXyQvhPGmCadfbPMwvb9uYWEONlTbitmy2LrGHbtdrHpdpUt30MRhZFiCmh5zAi6hIj1pcO2nzWvoimWO0LMtt4ki4dAqV7nlccJVwzh66zeaeem9-FczIeM7VZ8cwNyOAoEmllquz2wJhl5uZgVJs." class="logo">
             
         </a>
 
@@ -250,10 +250,10 @@
         </div>
     </div>
 </div>
-  <div class="main-body is-narrow">   <div class="sso-login-main-body"><div class="login-sso-container">  <h1>Part of Baylor University?</h1> <div class="login-options-container"><div class="login-sso-option">  <p>Baylor University uses your network credentials to login to Box. Continue to login to Box through your network.</p><form class="login-link-sso" method="post" action="/login"><button type="submit" class="btn btn-primary btn-full-width"> Continue</button><input type="hidden" name="redirect_url" value="https://baylor.app.box.com/s/155r2jr96vk2m5wz3lgl0eyxqx82l7g6"><input type="hidden" name="request_token" value="dcd8a56d5d727bba0b8cac183d67c2e5874a05874ad0a4f33f9835ec7e3973bb"><input type="hidden" name="login_page_source" value="sso-prompt-login"></form></div><div class="login-options-separator"></div><div class="login-non-enterprise">  <p>If you are not a part of Baylor University, continue to log in with your Box.com account.</p> <div class="login-link-non-sso"><a href="https://account.box.com/login?redirect_url=https://baylor.app.box.com/s/155r2jr96vk2m5wz3lgl0eyxqx82l7g6" role="button" class="btn btn-full-width">  Not a part of Baylor University</a></div></div></div></div>
+  <div class="main-body is-narrow">   <div class="sso-login-main-body"><div class="login-sso-container">  <h1>Part of Baylor University?</h1> <div class="login-options-container"><div class="login-sso-option">  <p>Baylor University uses your network credentials to login to Box. Continue to login to Box through your network.</p><form class="login-link-sso" method="post" action="/login"><button type="submit" class="btn btn-primary btn-full-width"> Continue</button><input type="hidden" name="redirect_url" value="https://baylor.app.box.com/s/rlwkd5z3ka99in7nt5ysr6a4hh7tgmnf"><input type="hidden" name="request_token" value="9aaefa56283b8ec4dfb07df430d5f9b43ff7f757949135da5c96bbd7b338e4fa"><input type="hidden" name="login_page_source" value="sso-prompt-login"></form></div><div class="login-options-separator"></div><div class="login-non-enterprise">  <p>If you are not a part of Baylor University, continue to log in with your Box.com account.</p> <div class="login-link-non-sso"><a href="https://account.box.com/login?redirect_url=https://baylor.app.box.com/s/rlwkd5z3ka99in7nt5ysr6a4hh7tgmnf" role="button" class="btn btn-full-width">  Not a part of Baylor University</a></div></div></div></div>
   <div class="login-custom-message">  <h2>Welcome to Baylor&#039;s Box for Enterprise</h2><p>Click the 'Continue' button to continue to the Baylor login page. Log in with your BearID (i.e. Betty_Baylor, not your full email address) and password to gain access to Box resources.</p></div> 
 </div> </div> 
- <div class="main-footer"><div class="main-footer-inner"><ul role="navigation" class="footer-navigation"><li class="copyright"><a href="/about-us"> &copy;2021 Box </a></li>    <li><a href="/legal_text/privacy_policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>  <li><a href="/legal_text/tos" target="_blank" rel="noopener noreferrer">Terms</a></li><li> <a href="https://community.box.com" target="_blank" rel="noopener noreferrer" id="footer_help_link">Help</a></li>     <li><a href="/integrations/googleplus/beginAuthorization?redirect_url=https%3A%2F%2Fbaylor.app.box.com%2Fs%2F155r2jr96vk2m5wz3lgl0eyxqx82l7g6" rel="noopener noreferrer">Sign In with Google</a></li>   <li class="is-always-visible">To view Box support resources,&nbsp;<a href="https://baylor.app.box.com/help" target="_blank" rel="noopener noreferrer">click here.</a></li></ul></div></div>
+ <div class="main-footer"><div class="main-footer-inner"><ul role="navigation" class="footer-navigation"><li class="copyright"><a href="/about-us"> &copy;2021 Box </a></li>    <li><a href="/legal_text/privacy_policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>  <li><a href="/legal_text/tos" target="_blank" rel="noopener noreferrer">Terms</a></li><li> <a href="https://community.box.com" target="_blank" rel="noopener noreferrer" id="footer_help_link">Help</a></li>     <li><a href="/integrations/googleplus/beginAuthorization?redirect_url=https%3A%2F%2Fbaylor.app.box.com%2Fs%2Frlwkd5z3ka99in7nt5ysr6a4hh7tgmnf" rel="noopener noreferrer">Sign In with Google</a></li>   <li class="is-always-visible">To view Box support resources,&nbsp;<a href="https://baylor.app.box.com/help" target="_blank" rel="noopener noreferrer">click here.</a></li></ul></div></div>
    </div>
 
 
@@ -270,7 +270,7 @@
     window.Box = window.Box || {};
     Box.config = Box.config || {};
     Box.config.currentRm = 'amsterdam_login_premium';
-    Box.config.requestToken = 'dcd8a56d5d727bba0b8cac183d67c2e5874a05874ad0a4f33f9835ec7e3973bb';
+    Box.config.requestToken = '9aaefa56283b8ec4dfb07df430d5f9b43ff7f757949135da5c96bbd7b338e4fa';
     Box.config.debug = 0;
     Box.config.locale = 'en-US';
     Box.config.isBoxEditAllowed = 1;
